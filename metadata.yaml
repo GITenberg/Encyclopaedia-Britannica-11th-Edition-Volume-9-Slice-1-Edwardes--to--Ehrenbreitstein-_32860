@@ -1,0 +1,26 @@
+_repo: Encyclopaedia-Britannica-11th-Edition-Volume-9-Slice-1-Edwardes--to--Ehrenbreitstein-_32860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AE'
+- !lcsh 'Encyclopedias and dictionaries'
+title: "Encyclopaedia Britannica, 11th Edition, \"Edwardes, Sir Herbert Benjamin\"\
+  \ to \"Ehrenbreitstein\"\r\nVolume 9, Slice 1"
+url: http://www.gutenberg.org/ebooks/32860
